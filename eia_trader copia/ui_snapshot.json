@@ -1,0 +1,17 @@
+{
+  "ts": 1772118429.554053,
+  "state": "HALT",
+  "position_side": "FLAT",
+  "position_qty": 0,
+  "entry_price": 0.0,
+  "unrealized_pnl": 0.0,
+  "realized_pnl": 0.0800000000000125,
+  "trades_today": 3,
+  "label": "SHOCK",
+  "score": 2.5,
+  "event_active": true,
+  "arm": true,
+  "kill": false,
+  "flatten": false,
+  "reject_reason": "Max trades/day -> HALT"
+}

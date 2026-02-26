@@ -1,0 +1,369 @@
+2026-02-25 20:21:34	INFO	Engine initialized
+2026-02-25 20:25:10	INFO	Engine initialized
+2026-02-25 20:49:03	INFO	Engine initialized
+2026-02-25 21:04:15	INFO	Engine initialized
+2026-02-25 21:04:15	INFO	Event active: ref_price=75.00 label=SHOCK score=+2.50
+2026-02-25 21:04:16	INFO	ENTER LONG qty=1 fill=75.09 label=SHOCK score=+2.50 move_ticks=8
+2026-02-25 21:19:38	INFO	Engine initialized
+2026-02-25 21:32:58	INFO	Engine initialized
+2026-02-25 21:32:58	INFO	Event active: ref_price=75.00 label=SHOCK score=+2.50
+2026-02-25 21:32:59	INFO	ENTER LONG qty=1 fill=75.09 label=SHOCK score=+2.50 move_ticks=8 vel=10.42 retr=0
+2026-02-25 21:33:12	INFO	TRAIL EXIT LONG
+2026-02-25 21:33:12	INFO	EXIT pnl_delta=0.14
+2026-02-25 21:35:12	INFO	Event active: ref_price=75.18 label=SHOCK score=+2.50
+2026-02-25 21:35:19	INFO	Rejected: low velocity 1.08 < 1.50
+2026-02-25 21:35:20	INFO	Rejected: low velocity 1.18 < 1.50
+2026-02-25 21:35:20	INFO	Rejected: low velocity 1.39 < 1.50
+2026-02-25 21:35:20	WARN	No confirm in time window -> cooldown
+2026-02-25 21:36:07	INFO	Engine initialized
+2026-02-25 21:36:07	INFO	Event active: ref_price=75.00 label=SHOCK score=+2.50
+2026-02-25 21:36:08	INFO	ENTER LONG qty=1 fill=75.09 label=SHOCK score=+2.50 move_ticks=8 vel=10.39 retr=0
+2026-02-25 21:36:21	INFO	TRAIL EXIT LONG
+2026-02-25 21:36:21	INFO	EXIT pnl_delta=0.15
+2026-02-25 21:38:21	INFO	Event active: ref_price=75.17 label=SHOCK score=+2.50
+2026-02-25 21:38:24	INFO	Event active: ref_price=75.12 label=SHOCK score=+2.50
+2026-02-25 21:38:28	INFO	ENTER LONG qty=1 fill=75.22 label=SHOCK score=+2.50 move_ticks=9 vel=2.72 retr=0
+2026-02-25 21:38:32	INFO	TRAIL EXIT LONG
+2026-02-25 21:38:32	INFO	EXIT pnl_delta=0.02
+2026-02-25 21:40:33	INFO	Event active: ref_price=75.16 label=SHOCK score=+2.50
+2026-02-25 21:40:40	INFO	Rejected: low velocity 1.18 < 1.50
+2026-02-25 21:40:40	INFO	Rejected: low velocity 1.40 < 1.50
+2026-02-25 21:40:41	WARN	No confirm in time window -> cooldown
+2026-02-25 21:42:41	INFO	Event active: ref_price=74.84 label=SHOCK score=+2.50
+2026-02-25 21:42:42	INFO	ENTER LONG qty=1 fill=74.93 label=SHOCK score=+2.50 move_ticks=8 vel=7.85 retr=0
+2026-02-25 21:42:56	INFO	TRAIL EXIT LONG
+2026-02-25 21:42:56	INFO	EXIT pnl_delta=0.31
+2026-02-25 21:44:57	INFO	Event active: ref_price=75.17 label=SHOCK score=+2.50
+2026-02-25 21:44:57	WARN	Max trades per day reached: HALT
+2026-02-25 21:44:57	WARN	Max trades per day reached: HALT
+2026-02-25 21:44:57	WARN	Max trades per day reached: HALT
+2026-02-25 21:44:58	WARN	Max trades per day reached: HALT
+2026-02-25 21:44:58	WARN	Max trades per day reached: HALT
+2026-02-25 21:44:58	WARN	Max trades per day reached: HALT
+2026-02-25 21:44:58	WARN	Max trades per day reached: HALT
+2026-02-25 21:44:59	WARN	Max trades per day reached: HALT
+2026-02-25 21:44:59	WARN	Max trades per day reached: HALT
+2026-02-25 21:44:59	WARN	Max trades per day reached: HALT
+2026-02-25 21:44:59	WARN	Max trades per day reached: HALT
+2026-02-25 21:45:00	WARN	Max trades per day reached: HALT
+2026-02-25 21:45:00	WARN	Max trades per day reached: HALT
+2026-02-25 21:45:00	WARN	Max trades per day reached: HALT
+2026-02-25 21:45:00	WARN	Max trades per day reached: HALT
+2026-02-25 21:45:01	WARN	Max trades per day reached: HALT
+2026-02-25 21:45:01	WARN	Max trades per day reached: HALT
+2026-02-25 21:45:01	WARN	Max trades per day reached: HALT
+2026-02-25 21:45:01	WARN	Max trades per day reached: HALT
+2026-02-25 21:45:02	WARN	Max trades per day reached: HALT
+2026-02-25 21:45:02	WARN	Max trades per day reached: HALT
+2026-02-25 21:45:02	WARN	Max trades per day reached: HALT
+2026-02-25 21:45:02	WARN	Max trades per day reached: HALT
+2026-02-25 21:45:03	WARN	Max trades per day reached: HALT
+2026-02-25 21:45:03	WARN	Max trades per day reached: HALT
+2026-02-25 21:45:03	WARN	Max trades per day reached: HALT
+2026-02-25 21:45:04	WARN	Max trades per day reached: HALT
+2026-02-25 21:45:04	WARN	Max trades per day reached: HALT
+2026-02-25 21:45:04	WARN	Max trades per day reached: HALT
+2026-02-25 21:45:04	WARN	Max trades per day reached: HALT
+2026-02-25 21:45:05	WARN	Max trades per day reached: HALT
+2026-02-25 21:45:05	WARN	Max trades per day reached: HALT
+2026-02-25 21:45:05	WARN	Max trades per day reached: HALT
+2026-02-25 21:45:05	WARN	Max trades per day reached: HALT
+2026-02-25 21:45:06	WARN	Max trades per day reached: HALT
+2026-02-25 21:45:06	WARN	Max trades per day reached: HALT
+2026-02-25 21:45:06	WARN	Max trades per day reached: HALT
+2026-02-25 21:45:06	WARN	Max trades per day reached: HALT
+2026-02-25 21:45:07	WARN	Max trades per day reached: HALT
+2026-02-25 21:45:07	WARN	Max trades per day reached: HALT
+2026-02-25 21:45:07	WARN	Max trades per day reached: HALT
+2026-02-25 21:45:07	WARN	Max trades per day reached: HALT
+2026-02-25 21:45:08	WARN	Max trades per day reached: HALT
+2026-02-25 21:45:08	WARN	Max trades per day reached: HALT
+2026-02-25 21:45:08	WARN	Max trades per day reached: HALT
+2026-02-25 21:45:08	WARN	Max trades per day reached: HALT
+2026-02-25 21:45:09	WARN	Max trades per day reached: HALT
+2026-02-25 21:45:09	WARN	Max trades per day reached: HALT
+2026-02-25 21:45:09	WARN	Max trades per day reached: HALT
+2026-02-25 21:45:09	WARN	Max trades per day reached: HALT
+2026-02-25 21:45:10	WARN	Max trades per day reached: HALT
+2026-02-25 21:45:10	WARN	Max trades per day reached: HALT
+2026-02-25 21:45:10	WARN	Max trades per day reached: HALT
+2026-02-25 21:45:10	WARN	Max trades per day reached: HALT
+2026-02-25 21:45:11	WARN	Max trades per day reached: HALT
+2026-02-25 21:45:11	WARN	Max trades per day reached: HALT
+2026-02-25 21:45:11	WARN	Max trades per day reached: HALT
+2026-02-25 21:45:11	WARN	Max trades per day reached: HALT
+2026-02-25 21:45:12	WARN	Max trades per day reached: HALT
+2026-02-25 21:45:12	WARN	Max trades per day reached: HALT
+2026-02-25 21:45:12	WARN	Max trades per day reached: HALT
+2026-02-25 21:45:12	WARN	Max trades per day reached: HALT
+2026-02-25 21:45:13	WARN	Max trades per day reached: HALT
+2026-02-25 21:45:13	WARN	Max trades per day reached: HALT
+2026-02-25 21:45:13	WARN	Max trades per day reached: HALT
+2026-02-25 21:45:13	WARN	Max trades per day reached: HALT
+2026-02-25 21:45:14	WARN	Max trades per day reached: HALT
+2026-02-25 21:45:14	WARN	Max trades per day reached: HALT
+2026-02-25 21:45:14	WARN	Max trades per day reached: HALT
+2026-02-25 21:45:14	WARN	Max trades per day reached: HALT
+2026-02-25 21:45:15	WARN	Max trades per day reached: HALT
+2026-02-25 21:45:15	WARN	Max trades per day reached: HALT
+2026-02-25 21:45:15	WARN	Max trades per day reached: HALT
+2026-02-25 21:45:15	WARN	Max trades per day reached: HALT
+2026-02-25 21:45:16	WARN	Max trades per day reached: HALT
+2026-02-25 21:45:16	WARN	Max trades per day reached: HALT
+2026-02-25 21:45:16	WARN	Max trades per day reached: HALT
+2026-02-25 21:45:17	WARN	Max trades per day reached: HALT
+2026-02-25 21:45:17	WARN	Max trades per day reached: HALT
+2026-02-25 21:45:17	WARN	Max trades per day reached: HALT
+2026-02-25 21:45:17	WARN	Max trades per day reached: HALT
+2026-02-25 21:45:18	WARN	Max trades per day reached: HALT
+2026-02-25 21:45:18	WARN	Max trades per day reached: HALT
+2026-02-25 21:45:18	WARN	Max trades per day reached: HALT
+2026-02-25 21:45:18	WARN	Max trades per day reached: HALT
+2026-02-25 21:45:19	WARN	Max trades per day reached: HALT
+2026-02-25 21:45:19	WARN	Max trades per day reached: HALT
+2026-02-25 21:45:19	WARN	Max trades per day reached: HALT
+2026-02-25 21:45:19	WARN	Max trades per day reached: HALT
+2026-02-25 21:45:20	WARN	Max trades per day reached: HALT
+2026-02-25 21:45:20	WARN	Max trades per day reached: HALT
+2026-02-25 21:45:20	WARN	Max trades per day reached: HALT
+2026-02-25 21:45:20	WARN	Max trades per day reached: HALT
+2026-02-25 21:45:21	WARN	Max trades per day reached: HALT
+2026-02-25 21:45:21	WARN	Max trades per day reached: HALT
+2026-02-25 21:45:21	WARN	Max trades per day reached: HALT
+2026-02-25 21:45:21	WARN	Max trades per day reached: HALT
+2026-02-25 21:45:22	WARN	Max trades per day reached: HALT
+2026-02-25 21:45:22	WARN	Max trades per day reached: HALT
+2026-02-25 21:45:22	WARN	Max trades per day reached: HALT
+2026-02-25 21:45:22	WARN	Max trades per day reached: HALT
+2026-02-25 21:45:23	WARN	Max trades per day reached: HALT
+2026-02-25 21:45:23	WARN	Max trades per day reached: HALT
+2026-02-25 21:45:23	WARN	Max trades per day reached: HALT
+2026-02-25 21:45:23	WARN	Max trades per day reached: HALT
+2026-02-25 21:45:24	WARN	Max trades per day reached: HALT
+2026-02-25 21:45:24	WARN	Max trades per day reached: HALT
+2026-02-25 21:45:24	WARN	Max trades per day reached: HALT
+2026-02-25 21:45:24	WARN	Max trades per day reached: HALT
+2026-02-25 21:45:25	WARN	Max trades per day reached: HALT
+2026-02-25 21:45:25	WARN	Max trades per day reached: HALT
+2026-02-25 21:45:25	WARN	Max trades per day reached: HALT
+2026-02-25 21:45:25	WARN	Max trades per day reached: HALT
+2026-02-25 21:45:26	WARN	Max trades per day reached: HALT
+2026-02-25 21:45:26	WARN	Max trades per day reached: HALT
+2026-02-25 21:45:26	WARN	Max trades per day reached: HALT
+2026-02-25 21:45:26	WARN	Max trades per day reached: HALT
+2026-02-25 21:45:27	WARN	Max trades per day reached: HALT
+2026-02-25 21:45:27	WARN	Max trades per day reached: HALT
+2026-02-25 21:45:27	WARN	Max trades per day reached: HALT
+2026-02-25 21:45:27	WARN	Max trades per day reached: HALT
+2026-02-25 21:45:28	WARN	Max trades per day reached: HALT
+2026-02-25 21:45:28	WARN	Max trades per day reached: HALT
+2026-02-25 21:45:28	WARN	Max trades per day reached: HALT
+2026-02-25 21:45:29	WARN	Max trades per day reached: HALT
+2026-02-25 21:45:29	WARN	Max trades per day reached: HALT
+2026-02-25 21:45:29	WARN	Max trades per day reached: HALT
+2026-02-25 21:45:29	WARN	Max trades per day reached: HALT
+2026-02-25 21:45:30	WARN	Max trades per day reached: HALT
+2026-02-25 21:45:30	WARN	Max trades per day reached: HALT
+2026-02-25 21:45:30	WARN	Max trades per day reached: HALT
+2026-02-25 21:45:30	WARN	Max trades per day reached: HALT
+2026-02-25 21:45:31	WARN	Max trades per day reached: HALT
+2026-02-25 21:45:31	WARN	Max trades per day reached: HALT
+2026-02-25 21:45:31	WARN	Max trades per day reached: HALT
+2026-02-25 21:45:31	WARN	Max trades per day reached: HALT
+2026-02-25 21:45:32	WARN	Max trades per day reached: HALT
+2026-02-25 21:45:32	WARN	Max trades per day reached: HALT
+2026-02-25 21:45:32	WARN	Max trades per day reached: HALT
+2026-02-25 21:45:32	WARN	Max trades per day reached: HALT
+2026-02-25 21:45:33	WARN	Max trades per day reached: HALT
+2026-02-25 21:45:33	WARN	Max trades per day reached: HALT
+2026-02-25 21:45:33	WARN	Max trades per day reached: HALT
+2026-02-25 21:45:33	WARN	Max trades per day reached: HALT
+2026-02-25 21:45:34	WARN	Max trades per day reached: HALT
+2026-02-25 21:45:34	WARN	Max trades per day reached: HALT
+2026-02-25 21:45:34	WARN	Max trades per day reached: HALT
+2026-02-25 21:45:34	WARN	Max trades per day reached: HALT
+2026-02-25 21:45:35	WARN	Max trades per day reached: HALT
+2026-02-25 21:45:35	WARN	Max trades per day reached: HALT
+2026-02-25 21:45:35	WARN	Max trades per day reached: HALT
+2026-02-25 21:45:35	WARN	Max trades per day reached: HALT
+2026-02-25 21:45:36	WARN	Max trades per day reached: HALT
+2026-02-25 21:45:36	WARN	Max trades per day reached: HALT
+2026-02-25 21:45:36	WARN	Max trades per day reached: HALT
+2026-02-25 21:45:36	WARN	Max trades per day reached: HALT
+2026-02-25 21:45:37	WARN	Max trades per day reached: HALT
+2026-02-25 21:45:37	WARN	Max trades per day reached: HALT
+2026-02-25 21:45:37	WARN	Max trades per day reached: HALT
+2026-02-25 21:45:37	WARN	Max trades per day reached: HALT
+2026-02-25 21:45:38	WARN	Max trades per day reached: HALT
+2026-02-25 21:45:38	WARN	Max trades per day reached: HALT
+2026-02-25 21:45:38	WARN	Max trades per day reached: HALT
+2026-02-25 21:45:38	WARN	Max trades per day reached: HALT
+2026-02-25 21:45:39	WARN	Max trades per day reached: HALT
+2026-02-25 21:45:39	WARN	Max trades per day reached: HALT
+2026-02-25 21:45:39	WARN	Max trades per day reached: HALT
+2026-02-25 21:45:39	WARN	Max trades per day reached: HALT
+2026-02-25 21:45:40	WARN	Max trades per day reached: HALT
+2026-02-25 21:45:40	WARN	Max trades per day reached: HALT
+2026-02-25 21:45:40	WARN	Max trades per day reached: HALT
+2026-02-25 21:45:40	WARN	Max trades per day reached: HALT
+2026-02-25 21:45:41	WARN	Max trades per day reached: HALT
+2026-02-25 21:45:41	WARN	Max trades per day reached: HALT
+2026-02-25 21:45:41	WARN	Max trades per day reached: HALT
+2026-02-25 21:45:42	WARN	Max trades per day reached: HALT
+2026-02-25 21:45:42	WARN	Max trades per day reached: HALT
+2026-02-25 21:45:42	WARN	Max trades per day reached: HALT
+2026-02-25 21:45:42	WARN	Max trades per day reached: HALT
+2026-02-25 21:45:43	WARN	Max trades per day reached: HALT
+2026-02-25 21:45:43	WARN	Max trades per day reached: HALT
+2026-02-25 21:45:43	WARN	Max trades per day reached: HALT
+2026-02-25 21:45:43	WARN	Max trades per day reached: HALT
+2026-02-25 21:45:44	WARN	Max trades per day reached: HALT
+2026-02-25 21:45:44	WARN	Max trades per day reached: HALT
+2026-02-25 21:45:44	WARN	Max trades per day reached: HALT
+2026-02-25 21:45:44	WARN	Max trades per day reached: HALT
+2026-02-25 21:45:45	WARN	Max trades per day reached: HALT
+2026-02-25 21:45:45	WARN	Max trades per day reached: HALT
+2026-02-25 21:45:45	WARN	Max trades per day reached: HALT
+2026-02-25 21:45:45	WARN	Max trades per day reached: HALT
+2026-02-25 21:45:46	WARN	Max trades per day reached: HALT
+2026-02-25 21:45:46	WARN	Max trades per day reached: HALT
+2026-02-25 21:45:46	WARN	Max trades per day reached: HALT
+2026-02-25 21:45:46	WARN	Max trades per day reached: HALT
+2026-02-25 21:45:47	WARN	Max trades per day reached: HALT
+2026-02-25 21:45:47	WARN	Max trades per day reached: HALT
+2026-02-25 21:45:47	WARN	Max trades per day reached: HALT
+2026-02-25 21:45:47	WARN	Max trades per day reached: HALT
+2026-02-25 21:45:48	WARN	Max trades per day reached: HALT
+2026-02-25 21:45:48	WARN	Max trades per day reached: HALT
+2026-02-25 21:45:48	WARN	Max trades per day reached: HALT
+2026-02-25 21:45:48	WARN	Max trades per day reached: HALT
+2026-02-25 21:45:49	WARN	Max trades per day reached: HALT
+2026-02-25 21:45:49	WARN	Max trades per day reached: HALT
+2026-02-25 21:45:49	WARN	Max trades per day reached: HALT
+2026-02-25 21:45:49	WARN	Max trades per day reached: HALT
+2026-02-25 21:45:50	WARN	Max trades per day reached: HALT
+2026-02-25 21:45:50	WARN	Max trades per day reached: HALT
+2026-02-25 21:45:50	WARN	Max trades per day reached: HALT
+2026-02-25 21:45:50	WARN	Max trades per day reached: HALT
+2026-02-25 21:45:51	WARN	Max trades per day reached: HALT
+2026-02-25 21:45:51	WARN	Max trades per day reached: HALT
+2026-02-25 21:45:51	WARN	Max trades per day reached: HALT
+2026-02-25 21:45:51	WARN	Max trades per day reached: HALT
+2026-02-25 21:45:52	WARN	Max trades per day reached: HALT
+2026-02-25 21:45:52	WARN	Max trades per day reached: HALT
+2026-02-25 21:45:52	WARN	Max trades per day reached: HALT
+2026-02-25 21:45:52	WARN	Max trades per day reached: HALT
+2026-02-25 21:45:53	WARN	Max trades per day reached: HALT
+2026-02-25 21:45:53	WARN	Max trades per day reached: HALT
+2026-02-25 21:45:53	WARN	Max trades per day reached: HALT
+2026-02-25 21:45:54	WARN	Max trades per day reached: HALT
+2026-02-25 21:45:54	WARN	Max trades per day reached: HALT
+2026-02-25 21:45:54	WARN	Max trades per day reached: HALT
+2026-02-25 21:45:54	WARN	Max trades per day reached: HALT
+2026-02-25 21:45:55	WARN	Max trades per day reached: HALT
+2026-02-25 21:45:55	WARN	Max trades per day reached: HALT
+2026-02-25 21:45:55	WARN	Max trades per day reached: HALT
+2026-02-25 21:45:55	WARN	Max trades per day reached: HALT
+2026-02-25 21:45:56	WARN	Max trades per day reached: HALT
+2026-02-25 21:45:56	WARN	Max trades per day reached: HALT
+2026-02-25 21:45:56	WARN	Max trades per day reached: HALT
+2026-02-25 21:45:56	WARN	Max trades per day reached: HALT
+2026-02-25 21:45:57	WARN	Max trades per day reached: HALT
+2026-02-25 21:45:57	WARN	Max trades per day reached: HALT
+2026-02-25 21:45:57	WARN	Max trades per day reached: HALT
+2026-02-25 21:45:57	WARN	Max trades per day reached: HALT
+2026-02-25 21:45:58	WARN	Max trades per day reached: HALT
+2026-02-25 21:45:58	WARN	Max trades per day reached: HALT
+2026-02-25 21:45:58	WARN	Max trades per day reached: HALT
+2026-02-25 21:45:58	WARN	Max trades per day reached: HALT
+2026-02-25 21:45:59	WARN	Max trades per day reached: HALT
+2026-02-25 21:45:59	WARN	Max trades per day reached: HALT
+2026-02-25 21:45:59	WARN	Max trades per day reached: HALT
+2026-02-25 21:45:59	WARN	Max trades per day reached: HALT
+2026-02-25 21:46:00	WARN	Max trades per day reached: HALT
+2026-02-25 21:46:00	WARN	Max trades per day reached: HALT
+2026-02-25 21:46:00	WARN	Max trades per day reached: HALT
+2026-02-25 21:46:00	WARN	Max trades per day reached: HALT
+2026-02-25 21:46:01	WARN	Max trades per day reached: HALT
+2026-02-25 21:46:01	WARN	Max trades per day reached: HALT
+2026-02-25 21:46:01	WARN	Max trades per day reached: HALT
+2026-02-25 21:46:01	WARN	Max trades per day reached: HALT
+2026-02-25 21:46:02	WARN	Max trades per day reached: HALT
+2026-02-25 21:46:02	WARN	Max trades per day reached: HALT
+2026-02-25 21:46:02	WARN	Max trades per day reached: HALT
+2026-02-25 21:46:02	WARN	Max trades per day reached: HALT
+2026-02-25 21:46:03	WARN	Max trades per day reached: HALT
+2026-02-25 21:46:03	WARN	Max trades per day reached: HALT
+2026-02-25 21:46:03	WARN	Max trades per day reached: HALT
+2026-02-25 21:46:03	WARN	Max trades per day reached: HALT
+2026-02-25 21:46:04	WARN	Max trades per day reached: HALT
+2026-02-25 21:46:04	WARN	Max trades per day reached: HALT
+2026-02-25 21:46:04	WARN	Max trades per day reached: HALT
+2026-02-25 21:46:05	WARN	Max trades per day reached: HALT
+2026-02-25 21:46:05	WARN	Max trades per day reached: HALT
+2026-02-25 21:46:05	WARN	Max trades per day reached: HALT
+2026-02-25 21:46:05	WARN	Max trades per day reached: HALT
+2026-02-25 21:46:06	WARN	Max trades per day reached: HALT
+2026-02-25 21:46:06	WARN	Max trades per day reached: HALT
+2026-02-25 21:46:06	WARN	Max trades per day reached: HALT
+2026-02-25 21:46:06	WARN	Max trades per day reached: HALT
+2026-02-25 21:46:07	WARN	Max trades per day reached: HALT
+2026-02-25 21:46:07	WARN	Max trades per day reached: HALT
+2026-02-25 21:46:07	WARN	Max trades per day reached: HALT
+2026-02-25 21:46:07	WARN	Max trades per day reached: HALT
+2026-02-25 21:46:08	WARN	Max trades per day reached: HALT
+2026-02-25 21:46:08	WARN	Max trades per day reached: HALT
+2026-02-25 21:46:08	WARN	Max trades per day reached: HALT
+2026-02-25 21:46:08	WARN	Max trades per day reached: HALT
+2026-02-25 21:46:09	WARN	Max trades per day reached: HALT
+2026-02-25 21:46:09	WARN	Max trades per day reached: HALT
+2026-02-25 21:46:09	WARN	Max trades per day reached: HALT
+2026-02-25 21:46:09	WARN	Max trades per day reached: HALT
+2026-02-25 21:46:10	WARN	Max trades per day reached: HALT
+2026-02-25 21:46:10	WARN	Max trades per day reached: HALT
+2026-02-25 21:46:10	WARN	Max trades per day reached: HALT
+2026-02-25 21:46:10	WARN	Max trades per day reached: HALT
+2026-02-25 21:46:11	WARN	Max trades per day reached: HALT
+2026-02-25 21:46:11	WARN	Max trades per day reached: HALT
+2026-02-25 21:46:28	INFO	Engine initialized
+2026-02-25 21:46:28	INFO	Event active: ref_price=75.00 label=SHOCK score=+2.50
+2026-02-25 21:46:31	INFO	Rejected: no persistence
+2026-02-25 21:46:31	INFO	Rejected: no persistence
+2026-02-25 21:46:32	INFO	Rejected: no persistence
+2026-02-25 21:46:32	INFO	Rejected: no persistence
+2026-02-25 21:46:32	INFO	Rejected: no persistence
+2026-02-25 21:46:32	INFO	Rejected: no persistence
+2026-02-25 21:46:33	INFO	Rejected: no persistence
+2026-02-25 21:46:33	INFO	Rejected: no persistence
+2026-02-25 21:46:33	INFO	Rejected: no persistence
+2026-02-25 21:46:33	INFO	Rejected: no persistence
+2026-02-25 21:46:34	INFO	Rejected: no persistence
+2026-02-25 21:46:34	INFO	Rejected: no persistence
+2026-02-25 21:46:34	INFO	Rejected: no persistence
+2026-02-25 21:46:34	INFO	Rejected: no persistence
+2026-02-25 21:46:35	INFO	Rejected: no persistence
+2026-02-25 21:46:35	INFO	Rejected: no persistence
+2026-02-25 21:46:35	INFO	Rejected: no persistence
+2026-02-25 21:46:37	INFO	ENTER LONG qty=1 fill=75.24 label=SHOCK score=+2.50 move_ticks=23 vel=2.50 retr=0
+2026-02-25 21:46:42	INFO	TRAIL EXIT LONG
+2026-02-25 21:46:42	INFO	EXIT pnl_delta=0.00
+2026-02-25 21:48:42	INFO	Event active: ref_price=75.17 label=SHOCK score=+2.50
+2026-02-25 21:48:49	INFO	Rejected: low velocity 1.18 < 1.50
+2026-02-25 21:48:50	INFO	Rejected: low velocity 1.39 < 1.50
+2026-02-25 21:48:50	INFO	ENTER LONG qty=1 fill=75.31 label=SHOCK score=+2.50 move_ticks=13 vel=1.59 retr=0
+2026-02-25 21:48:54	INFO	TRAIL EXIT LONG
+2026-02-25 21:48:54	INFO	EXIT pnl_delta=-0.08
+2026-02-25 21:55:57	INFO	Engine initialized
+2026-02-25 21:56:06	INFO	ENTER LONG @ 75.23
+2026-02-25 21:56:11	INFO	EXIT: trailing long pnl_delta=0.00
+2026-02-25 21:58:19	INFO	ENTER LONG @ 75.32
+2026-02-25 21:58:23	INFO	EXIT: trailing long pnl_delta=-0.09
+2026-02-25 22:00:31	INFO	ENTER LONG @ 75.32
+2026-02-25 22:00:35	INFO	EXIT: trailing long pnl_delta=-0.09
+2026-02-26 00:00:00	INFO	New day: trades counter reset
+2026-02-26 00:02:05	INFO	ENTER LONG @ 75.06
+2026-02-26 00:02:11	INFO	EXIT: trailing long pnl_delta=0.10
+2026-02-26 00:04:17	INFO	ENTER LONG @ 75.08
+2026-02-26 00:04:23	INFO	EXIT: trailing long pnl_delta=0.08
+2026-02-26 00:06:29	INFO	ENTER LONG @ 75.08
+2026-02-26 00:06:35	INFO	EXIT: trailing long pnl_delta=0.08
