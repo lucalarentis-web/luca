@@ -1,0 +1,54 @@
+mode: PAPER
+symbol: CL
+
+engine:
+  tick_size: 0.01
+  loop_hz: 4
+  log_path: logs/engine.log
+
+risk:
+  base_size: 1
+  max_trades_per_day: 3
+  max_daily_loss: 500
+
+event:
+  neutral_z: 0.5
+  signif_z: 1.0
+  shock_z: 2.0
+
+execution:
+  max_spread_ticks: 4
+
+  # window post-event in cui accettiamo entry
+  confirm_seconds: 10
+
+  # requisiti diversi per SIGNIF vs SHOCK (più precisione = meno falsi)
+  impulse_ticks_shock: 8
+  impulse_ticks_signif: 10
+  velocity_ticks_per_sec: 1.5
+
+  # range iniziale post-evento (riduce fake spike)
+  range_build_sec: 3
+  range_break_ticks: 2
+
+  # anti-fake spike: massimo retrace dal peak/trough prima dell'entry
+  retrace_ticks: 3
+  persistence_n: 3
+
+  # gestione trade
+  hold_max_min: 60
+  cooldown_seconds: 120
+
+  # fail-fast / no-follow-through
+  fail_fast_sec: 15
+  no_follow_sec: 25
+  no_follow_min_pnl: 0.05
+
+  # trailing adattivo (più profit per trade)
+  trail_min_ticks: 10
+  trail_vol_mult: 1.5
+  breakeven_after_ticks: 8
+
+  # dopo un po' stringi il trailing (se non accelera)
+  tighten_after_sec: 120
+  trail_min_ticks_tight: 6
